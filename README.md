@@ -26,6 +26,20 @@ The dashboard was designed to identify key drivers of churn and provide actionab
 
 ---
 
+## Skills
+
+- Power BI Dashboard Design
+- DAX Measures & Calculations
+- Data Modeling
+- Power Query (ETL)
+- Business Intelligence
+- Customer Segmentation
+- Churn Analysis
+- KPI Development
+- Data Visualization
+
+---
+
 ## Dashboard Pages
 
 ### Executive Dashboard
